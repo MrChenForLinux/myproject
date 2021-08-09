@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -g -O0 -fprofile-arcs -ftest-coverage -g -shared -Wl,-soname,libcn-cbor.so -o ../dist/lib/libcn-cbor.so CMakeFiles/cn-cbor.dir/cn-cbor.c.o CMakeFiles/cn-cbor.dir/cn-create.c.o CMakeFiles/cn-cbor.dir/cn-encoder.c.o CMakeFiles/cn-cbor.dir/cn-error.c.o CMakeFiles/cn-cbor.dir/cn-get.c.o 
